@@ -2,9 +2,9 @@
 
 # Nordic Energy - Uniswap Exchange Frontend
 
-####  Nordic Energy´s Uniswap a protocol for automated token exchange on Ethereum (ERC-20) and Nordic Energy Tokens.
+####  Nordic Energy´s Uniswap a protocol for automated token exchange on Ethereum (ERC-20), and Nordic Energy tokens.
 
-Redesigned with simplicity in mind, the Uniswap protocol provides an interface for seamless exchange of Nordic Energy and Ethereum tokens. By eliminating unnecessary forms of rent extraction and middlemen it allows faster, more efficient exchange. Where it makes tradeoffs, decentralization, censorship resistance, and security are prioritized. Uniswap is forked Uniswap open source and functions as a public good. There is no central token or platform fee. No special treatment is given to early investors, adopters, or developers. Token listing is open and free. All smart contract functions are public and all upgrades are opt-in.
+Designed with Nordic Energy the Uniswap protocol provides an interface for seamless exchange of Nordic Energy and Ethereum tokens. By eliminating unnecessary forms of rent extraction and middlemen it allows faster, more efficient exchange. Where it makes tradeoffs, decentralization, censorship resistance, and security are prioritized. Uniswap is forked Uniswap open source and functions as a public good. There is no central token or platform fee. No special treatment is given to early investors, adopters, or developers. Token listing is open and free. All smart contract functions are public and all upgrades are opt-in.
 
 This site will serve as a project overview for Uniswap - explaining how it works, how to use it, and how to build on top of it. These docs are actively being worked on and more information will be added on an ongoing basis.
 
@@ -21,7 +21,7 @@ Whitepaper: Link
 	•	A formalized model for pooling liquidity reserves
 	•	An open source frontend interface for traders and liquidity providers
 	•	A commitment to free and decentralized asset exchange
-```
+
 
 ## Run Uniswap Locally
 
@@ -56,3 +56,5 @@ If deploying with Github Pages, be aware that there's some [tricky client-side r
 ## Contributions
 
 **Please open all pull requests against the `beta` branch.** CI checks will run against all PRs. To ensure that your changes will pass, run `yarn check:all` before pushing. If this command fails, you can try to automatically fix problems with `yarn fix:all`, or do it manually.
+
+```
